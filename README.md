@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Styling with CSS
 
 
@@ -75,3 +76,6 @@ To complete this lab, you'll need to:
 ###Evaluation / Submission
 
 Students will create a new repository on GitHub called "homework-landingpage" and push their code to it when they are ready to submit. Instructional team should evaluate against the solution code and the student's use of technical elements. They will provide a numeric grade on a scale: does not meet expectations (0); meets expectations (1); exceeds expectations (2). The maximum possible score on this assignment is 12/12.
+=======
+# homework-landingpage
+>>>>>>> 21c4a85e6159d95d7ad39a7f02dd9bbe767a2e70
