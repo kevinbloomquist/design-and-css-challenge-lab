@@ -49,7 +49,7 @@ body {
      font-family: Open Sans, Arial, sans-serif;
      background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
      background-size: cover;
-     
+
 }
 
 
@@ -93,7 +93,7 @@ text-align:center;
 #tagline{
   font: Open Sans;
   font-size:24px;
-  font-weight: Semibold;
+  font-style: Semibold;
   text-align: center;
   color:white;
   padding:40px 0px;
@@ -103,7 +103,7 @@ text-align:center;
 #getit{
 font:Open Sans;
 font-size:14px;
-font-weight:Extrabold
+font-style: :Extrabold
 color:#033048;
 border-radius: 5px;
 background-color: #f9e42e;
