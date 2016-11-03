@@ -72,8 +72,13 @@ text-align: center;
 }
 
 footer{
-color: white;
+background-color:black;
+color: #606161;
 text-align:center;
+height:400px;
+width:auto;
+position: relative;
+
 }
 
 /******************************************
@@ -82,18 +87,18 @@ text-align:center;
 
 
 #toplogo{
-  font: Open Sans;
+  font-family: Open Sans;
   font-size:24px;
-  font-weight:Extrabold;
+  font-weight:800;
   color: white;
   text-align:left;
   padding-left:30px;
 }
 
 #tagline{
-  font: Open Sans;
+  font-family: Open Sans;
   font-size:24px;
-  font-style: Semibold;
+  font-style: 600;
   text-align: center;
   color:white;
   padding:40px 0px;
@@ -101,27 +106,30 @@ text-align:center;
 
 
 #getit{
-font:Open Sans;
+font-family:Open Sans;
 font-size:14px;
-font-style: :Extrabold
+font-style:800;
 color:#033048;
 border-radius: 5px;
 background-color: #f9e42e;
 text-align: center;
 padding:10px 20px;
 margin-bottom:100px;
+width:200px;
+height:50px;
 
 }
 .benefitssec{
-  font:Open Sans;
+  font-family:Open Sans;
   font-size:20px;
-  font-weight:semibold
+  font-weight:600;
   color:#033048;
   width: 100%;
   height:auto;
   padding: 20px 4px 20px 4px;
-  background: white;
+  background: #f0efef;
   margin: 348px 0px 0px 0px;
+  position:relative;
   
 }
 
@@ -137,26 +145,23 @@ margin-bottom:100px;
 }
 
 #list{
-  font:Open Sans;
-  font-size:13px;
-  font-weight:light;
+  font-family:Open Sans 13px;
+  font-weight:300;
   color:#606161;
   width:60%;
   margin-left:72px;
 }
 
 .testaback{
-  background: url(../images/testamonial_bg.jpg) no-repeat;
   background-size: cover;
+  width: auto;
+  text-align:center;
 }
 #testamonial{
-  width: auto;
-  height: auto;
-  font:Open Sans; 
+  font-family:Open Sans 18px;
+  font-weight:300;
+  font-style:italic;
   color: white;
-  font-size: 18px; 
-  font-style: italic;
-  font-weight:light;
   text-align:center;
 
 }
@@ -165,9 +170,56 @@ margin-bottom:100px;
   font:Open Sans; 
   color:white;
   font-size: 18px 
-  font-weight:Semibold;
+  font-weight:600;
   text-align:center;
 }
+.waves{
+width: auto;
+}
+.signup{
+  background-color: #f9e42e;
+  text-align:center;
+  margin:0 auto;
+  font:Open Sans;
+  font-size:12px;
+  font-style:800;
+  height: 150px;
+  
+}
 
+#signbutton{
+  text-align:center;
+  font:Open Sans 12px;
+  font-weight:800;
+  background-color:#033048;
+  margin-top:65px;
+  background-color: #033048;
+  margin-top: 65px;
+  color: #f0efef;
+  border-radius: 5px;
+  width: 200px;
+  height:50px;
+}
+
+.footrelaxr{
+  color: #f9e42e;
+  font: Open Sans;
+  font-size: 24px;
+  font-weight:800;
+}
+
+.twitter{
+display:inline-block;
+}
+
+.facebook{
+  display:inline-block;
+  clear:both;
+  padding-left:20px;
+}
+.legal{
+  font: Open Sans 9px;
+  font-weight:600;
+}
 
 
